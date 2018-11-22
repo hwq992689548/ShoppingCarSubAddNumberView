@@ -1,7 +1,8 @@
 # ShoppingCarSubAddNumberView
 购物车中的减加视图 带有margin内边距 防止误点
 
-<iframe width="560" height="315" src="https://github.com/hwq992689548/ShoppingCarSubAddNumberView/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D.mov" frameborder="0" allowfullscreen></iframe>
+ 
+[![Watch the video](https://github.com/hwq992689548/ShoppingCarSubAddNumberView/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D.mov)] 
 
 ##
   self.view.backgroundColor = UIColor.groupTableViewBackground
