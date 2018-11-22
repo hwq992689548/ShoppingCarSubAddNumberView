@@ -1,5 +1,5 @@
 # ShoppingCarSubAddNumberView
-购物车中的减加视图
+购物车中的减加视图 带有margin内边距 防止误点
 
 self.view.backgroundColor = UIColor.groupTableViewBackground
 subAddView = MHSubAddView.init(frame: CGRect.init(x: 250, y: 300, width: 40, height: 40))
